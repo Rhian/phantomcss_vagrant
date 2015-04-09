@@ -20,5 +20,4 @@ sudo git clone git://github.com/n1k0/casperjs.git
 sudo ln -sf /usr/local/src/casperjs/bin/casperjs /usr/local/bin/casperjs
 cd
 casperjs --version
-npm config set registry http://registry.npmjs.org/
 git clone git://github.com/Huddle/PhantomCSS.git
