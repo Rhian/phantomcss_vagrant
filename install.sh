@@ -20,4 +20,3 @@ sudo git clone git://github.com/n1k0/casperjs.git
 sudo ln -sf /usr/local/src/casperjs/bin/casperjs /usr/local/bin/casperjs
 cd
 casperjs --version
-git clone git://github.com/Huddle/PhantomCSS.git
